@@ -25,7 +25,7 @@ trainset: the original training (except 4 clips) and validation sets, total 266 
 validationset: 000, 011, 015 and 020 clips from the original training set, total 4 clips
 
 #### Models
-All the models(X4) can be downloaded from [GoogleDrive](https://drive.google.com/drive/folders/1qqJzwbA_Xwsv_yOGuglUezaY2SduhupR?usp=sharing).
+All the models(X2, X3, X4) can be downloaded from [GoogleDrive](https://drive.google.com/drive/folders/1qqJzwbA_Xwsv_yOGuglUezaY2SduhupR?usp=sharing).
 
 ## Quicktest with benchmark
 After download our models in paper, place the folder ``models_in_paper`` to the path ``./DBVSR``
